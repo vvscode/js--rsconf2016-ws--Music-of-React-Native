@@ -1,4 +1,8 @@
 # react-native-deezer
+Repo for workshop Ilja Satchok "Music of React Native" ( RS Conf 2016 )
+
+Initial clone from https://github.com/IFours/react-native-deezer
+
 
 ## Demo
 
